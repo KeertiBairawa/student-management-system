@@ -7,11 +7,11 @@
 - Update student information
 - Delete student record
 - Menu deiven interface
-  ## Technologies Used
+## Technologies Used
   - C++
-    ## How to run
-    1. Clone the respository
-    2. Open the project in any C++ compiler (VC Code/CodeBlocks)
-    3. Compile the program
-    4. Run the program
+ ## How to run
+ 1. Clone the respository
+ 2. Open the project in any C++ compiler (VC Code/CodeBlocks)
+ 3. Compile the program
+ 4. Run the program
 
